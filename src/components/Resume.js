@@ -2,7 +2,7 @@ import RESUMEIMG from '../components/assets/resume.jpg'
 
 export default function Resume() {
         const config ={
-            link:'https://publuu.com/flip-book/715712/1590554'
+            link:'https://publuu.com/flip-book/715712/1620844'
 
 
         }
